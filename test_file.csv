@@ -1,201 +1,201 @@
 Question,Given Label,Predicted Label
-What 's the second-largest island in the world ?,LOC:other,what
-Who painted Mother and Child ?,HUM:ind,who
-When is the Tulip Festival in Michigan ?,NUM:date,what
-What is Australia Day ?,DESC:def,what
-What is the meaning of Jesus ?,DESC:def,what
-What is the oldest website on the Internet ?,LOC:other,what
-What team did baseball 's St. Louis Browns become ?,HUM:gr,what
-"What new middle school was built in Philadelphia , Pennsylvania last year ?",HUM:gr,what
-What country 's people are the top television watchers ?,LOC:country,what
-What did Dan Aykroyd and John Belushi quit Saturday Night Live to become ?,ENTY:other,what
-What is the mascot for Notre Dame University ?,ENTY:other,what
-How many people did Randy Craft kill ?,NUM:count,unknown
-Who was The Pride of the Yankees ?,HUM:ind,who
-What does ribavirin consist of ?,ENTY:substance,what
-What 's the American dollar equivalent for 8 pounds in the U.K. ?,NUM:count,what
-Who declared : `` I am down on whores and I shan 't stop ripping them '' ?,HUM:ind,who
-What kind of sport is often associated with hooligans ?,ENTY:sport,what
-Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?,LOC:other,unknown
-What is prepared mustard ?,DESC:def,what
-How can your school march in the Macy 's Thanksgiving Parade ?,DESC:manner,unknown
-How many CDs has Garth Brooks sold ?,NUM:count,unknown
-How many astronauts manned each Project Mercury flight ?,NUM:count,unknown
-What mountains lie between the Arkansas and Missouri rivers ?,LOC:mount,what
-Who wrote NN DT NNP NNP '' ?,HUM:ind,who
-What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?,HUM:ind,what
-What is a golf ball made of ?,ENTY:substance,what
-How many miles is it to Ohio from North Carolina ?,NUM:count,unknown
-What is the historical relationship of Catholic Church and bingo ?,DESC:desc,what
-In what Olympic Games did Nadia Comaneci become popular ?,ENTY:sport,unknown
-What is the name of the city that Maurizio Pellegrin lives in ?,LOC:city,what
-Who are the two sons of Ozzie and Harriet Nelson ?,HUM:ind,who
-What are the distinct physical characterstics of the Arabian horse ?,DESC:desc,what
-Name a tiger that is extinct .,ENTY:animal,unknown
-Who said of Super Bowl III in 1969 : `` We 'll win- I guarantee it '' ?,HUM:ind,who
-What is a caldera ?,DESC:def,what
-How many sperm cells are in an average ejaculation ?,NUM:count,unknown
-What auto race was Wilbur Reed the first to win three times ?,ENTY:sport,what
-What kind of animal is Babar ?,ENTY:animal,what
-Where 's the Petrified Forest ?,LOC:other,unknown
-What mountain range is traversed by the highest railroad in the world ?,LOC:mount,what
-Who painted the Sistine Chapel ?,HUM:ind,who
-Who is the president of Stanford University ?,HUM:ind,who
-What is an annotated bibliography ?,DESC:def,what
-Name 11 famous martyrs .,HUM:ind,unknown
-Who was Lauren Bacall 's first husband ?,HUM:ind,who
-What breed of dog was the `` Little Rascals '' dog ?,ENTY:animal,what
-What Soviet leader owned a Rolls-Royce ?,HUM:ind,what
-What city gained renown for its pea-soup fogs ?,LOC:city,what
-What rum is so `` mixable '' it is a one-brand bar ?,ENTY:food,what
-What are some tips for building a fire in a fireplace ?,ENTY:techmeth,what
-What U.S. state borders Illinois to the north ?,LOC:state,what
-Why are the ears your center of balance ?,DESC:reason,unknown
-How many pairs of legs does a lobster have ?,NUM:count,unknown
-What is paracetamol ?,DESC:def,what
-How many hands does Bjorn Borg use when hitting his forehand ?,NUM:count,unknown
-Name the soft drink that is `` number one in the sun . '',ENTY:food,unknown
-When was `` the Great Depression '' ?,NUM:date,what
-Where do hyenas live ?,LOC:other,unknown
-What plant is rum made from ?,ENTY:plant,what
-How do you match a name to a social security number ?,DESC:manner,unknown
-What fowl grabs the spotlight after the Chinese Year of the Monkey ?,ENTY:animal,what
-What 's the colored part of the eye called ?,ENTY:body,what
-What is the AIM-54C Phoenix ?,DESC:def,what
-Why did the world enter a global depression in 1929 ?,DESC:reason,unknown
-Whose autobiography is titled Yes I Can ?,HUM:ind,unknown
-What does Inuit and Eskimo mean ?,DESC:def,what
-What is the acreage of the Chappellet vineyard ?,NUM:volsize,what
-"How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie , Scotland , December 21 , CD .",NUM:count,unknown
-Who followed Caesar ?,HUM:ind,who
-What athlete makes the most money from sports merchandise sales ?,HUM:ind,what
-What is `` the bear of beers '' ?,ENTY:animal,what
-What does a topophobic actor suffer from ?,ENTY:dismed,what
-What are the seven virtues ?,DESC:def,what
-Where did the term `` 86ed '' come from ?,DESC:desc,unknown
-What is the busiest air travel season ?,NUM:date,what
-What country has the largest sheep population ?,LOC:country,what
-What two colors are you blind to if you suffer from protanopia ?,ENTY:color,what
 "What was archy , and mehitabel ?",DESC:def,what
-What actor 's autobiography is titled All My Yesterdays ?,HUM:ind,what
-What 2 statues did France give to other countries ?,ENTY:cremat,what
-Give a reason for American Indians oftentimes dropping out of school .,DESC:reason,unknown
-What predators exist on Antarctica ?,ENTY:animal,what
-How much money does a back injury lawsuit get ?,NUM:money,unknown
-How many degrees cooler is the inside of a cucumber than the air outside ?,NUM:count,unknown
-What is the difference between classical conditioning and operant conditioning ?,DESC:desc,what
-How many revolutions does a standard LP make in three minutes ?,NUM:count,unknown
-How do I find the balance of my social security account ?,DESC:manner,unknown
-What was known as the Spice Island ?,LOC:other,what
-What is the name of the tallest mountain in the world ?,LOC:mount,what
-How do you say I love you in Spanish ?,ENTY:termeq,unknown
-What is the highest waterfall in the United States ?,LOC:other,what
-What 's the second-most-used vowel in English ?,ENTY:letter,what
-What is the student population at the University of Massachusetts in Amherst ?,NUM:other,what
-What explorer was nicknamed Iberia 's Pilot ?,HUM:ind,what
-Why doesn 't www.answers.com have any answers to my questions ?,DESC:reason,unknown
-What two South American countries do n't border Brazil ?,LOC:country,what
-What is the speed of the Mississippi River ?,NUM:speed,what
-Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?,HUM:ind,who
-Who was the inventor of silly putty ?,HUM:ind,who
-What U.S. President showed a fondness for munching on bee pollen bars ?,HUM:ind,what
-What Spanish artist painted Crucifixion ?,HUM:ind,what
-Who made a boat out of gopher wood ?,HUM:ind,who
-Where does chocolate come from ?,LOC:other,unknown
-Who replaced Bert Parks as the host of The Miss America Pageant ?,HUM:ind,who
-What is `` Nine Inch Nails '' ?,DESC:def,what
-Where is Tornado Alley ?,LOC:other,unknown
-When was the San Francisco fire ?,NUM:date,when
-What is the smallest country in Africa ?,LOC:country,what
-What is the fear of cockroaches called ?,ENTY:dismed,what
-Who has more DNA - a man or a woman ?,HUM:ind,who
-What are bear and bull markets ?,DESC:def,what
-What are some of the significant historical events of the 1990s ?,ENTY:event,what
-Where did Indian Pudding come from ?,DESC:desc,unknown
-How many home runs did Lou Gehrig have during his career ?,NUM:count,unknown
-How fast is light ?,NUM:speed,unknown
-What longtime game show host dropped dead while jogging in Central Park in 1984 ?,HUM:ind,what
-What is Bill Gates of Microsoft E-mail address ?,LOC:other,what
-Who portrayed `` Rosanne Rosanna-Dana '' on the television show `` Saturday Night Live '' ?,HUM:ind,who
-What American League baseball team 's worst finish between 1926 and 1964 was fourth ?,HUM:gr,what
-What movie did Madilyn Kahn star in with Gene Wilder ?,ENTY:cremat,what
-"What was introduced commercially by Bayer A.G. of Leverkusen , in 1899 ?",ENTY:other,what
-What are Cushman and Wakefield known for ?,DESC:reason,what
-What does a chairbound basophobic fear ?,ENTY:other,what
-When are sheep shorn ?,NUM:date,when
-How many double-word-score spaces are there on a Scrabble Crossword Game board ?,NUM:count,unknown
-What 's the first day of the week ?,NUM:date,what
-How many Beatles ' records went #1 ?,NUM:count,unknown
-"What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?",HUM:ind,unknown
-When was the battle of the Somme fought ?,NUM:date,when
-What two countries share the Khyber Pass ?,LOC:country,what
-What is the belt of low pressure around the equator called ?,ENTY:termeq,what
-What is the best college in the country ?,HUM:gr,what
-Where are the tropical rain forest distributions ?,LOC:other,unknown
-What is the abbreviation for micro ?,ABBR:abb,what
+What country do the Galapagos Islands belong to ?,LOC:country,what
+How do I make fuel bricks from recycled newspaper ?,DESC:manner,unknown
 What does a spermologer collect ?,ENTY:other,what
-Where is Mozambique located ?,LOC:other,unknown
-What day of the week sees the most fatal car accidents ?,NUM:date,what
-What was American folk hero John Chapman 's nickname ?,HUM:ind,what
-Where can I find out the top 1 singles ?,LOC:other,unknown
-Why did several San Diego schools stop serving apples to students ?,DESC:reason,unknown
-What Russian seaport has a name meaning `` Lord of the East '' ?,LOC:city,what
-What U.S. state records the least rainfall ?,LOC:state,what
-What 's the nickname of oddsmaker Jimmy Snyder ?,HUM:ind,what
-"What country has the most time zones , with 11 ?",LOC:country,what
-What year did Germany sign its nonaggression pact with the Soviet Union ?,NUM:date,what
-What is the dialogue circle in cartoons called ?,ENTY:termeq,what
-How do you look up criminal records on the Internet ?,DESC:manner,unknown
-What 1920s cowboy star rode Tony the Wonder Horse ?,HUM:ind,what
-How far can a man travel in outer space ?,NUM:dist,unknown
-How many degrees cooler is the inside of a cucumber than the air outside ?,NUM:count,unknown
-Why do people get calluses ?,DESC:reason,unknown
-What are the shortest and the longest songs ever produced ?,ENTY:cremat,what
-Who was Randy Steven Craft 's lawyer ?,HUM:ind,who
-What function does a community 's water tower serve ?,DESC:reason,what
-Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?,HUM:ind,who
-Who were the five Marx brothers ?,HUM:ind,who
-Who died 1 feet from where John F. Kennedy did ?,HUM:ind,who
-"Who was the mother of the man who would not be king , the duke of Windsor ?",HUM:ind,who
-"The italian artist , Maurizio Pellegrin , is how old ?",NUM:period,unknown
-Where is Windsor Castle ?,LOC:other,unknown
-Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?,HUM:gr,unknown
-How do you say `` fresh '' in Spanish ?,ENTY:termeq,unknown
-What soft drink would provide me with the biggest intake of caffeine ?,ENTY:food,what
-What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?,HUM:ind,what
-Where can I find a person 's address from a telephone number ?,LOC:other,unknown
-What United States President had dreamed that he was assassinated ?,HUM:ind,what
-"What do I need to do to take my dog with me to live in Dominica , West Indies for a year ?",DESC:desc,what
-Who killed Gandhi ?,HUM:ind,who
-Why were the American soldiers in WWI called `` Doughboys '',DESC:reason,unknown
-"Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?",HUM:ind,who
-What is Eagle 's syndrome styloid process ?,DESC:def,what
-Who does data collection in tourism ?,HUM:ind,who
-What is a fear of weakness ?,ENTY:dismed,what
-What did the only repealed amendment to the U.S. Constitution deal with ?,DESC:desc,what
-What is a fear of being alone ?,ENTY:dismed,what
-Who was the 16th President of the United States ?,HUM:ind,who
-What is the largest snake in the world ?,ENTY:animal,what
-Who were the `` filthiest people alive ? '',HUM:ind,who
-"What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ?",ENTY:event,what
-Which company that manufactures video-game hardware sells the `` super system '' ?,HUM:gr,unknown
-Who wrote The Night of the Iguana ?,HUM:ind,who
-What kind of file has the extension .dbf ?,ENTY:other,what
-Hazmat stands for what ?,DESC:def,what
-What time of day did Emperor Hirohito die ?,NUM:date,when
-When is Boxing Day ?,NUM:date,what
-How long is the Coney Island boardwalk ?,NUM:dist,unknown
-Who was President of Costa Rica in 1994 ?,HUM:ind,who
-What is Spumante ?,DESC:def,what
-Who discovered electricity ?,HUM:ind,who
-Where is the Rose Bowl played ?,LOC:other,unknown
-"What is the latitude and longitude of El Paso , Texas ?",NUM:other,what
-How many inches over six feet is the Venus de Milo ?,NUM:count,unknown
-What party was Winston Churchill a member of ?,HUM:gr,what
-How did serfdom develop in and then leave Russia ?,DESC:manner,unknown
-What does the six-footed Musca domestica become when it enters a house ?,ENTY:other,what
-What makes popcorn pop ?,DESC:reason,what
+What organization was founded by the Rev. Jerry Falwell ?,HUM:gr,what
+What ocean is the largest in the world ?,LOC:other,what
+What was Queen Victoria 's title regarding India ?,HUM:title,what
+What country has the largest sheep population ?,LOC:country,what
+How do fuel injectors work ?,DESC:manner,unknown
+"What is the origin of the word , JJ .",DESC:desc,what
+How successful is arometherapy ?,DESC:manner,unknown
+"What city boasts Penn 's Landing , on the banks of the Delaware river ?",LOC:city,what
+What do you call a group of geese ?,ENTY:animal,what
+What do players try to do when the music stops in a game of musical chairs ?,DESC:desc,what
+What does an average daycare provider get paid in New England ?,NUM:money,what
+Where did the myth of Santa Claus originate ?,LOC:other,unknown
+What is the highest waterfall in the United States ?,LOC:other,what
 "What 's the meaning of the Latin battle cry : Ad arma , ad arma .",DESC:def,what
-What body of water does the Danube River flow into ?,LOC:other,what
-What is a female rabbit called ?,ENTY:animal,what
-Who is Colin Powell ?,HUM:desc,who
+What European city do Nicois live in ?,LOC:city,what
+Where is the Danube ?,LOC:other,unknown
+What does the name Shawn mean ?,DESC:def,what
+Which city did Christian Crusaders fight to recapture from the Muslims ?,LOC:city,unknown
+Who were the `` filthiest people alive ? '',HUM:ind,who
+In what medium is Stuart Hamblen considered to be the first singing cowboy ?,ENTY:cremat,what
+What weapon is the mythological character Apollo most proficient with ?,ENTY:other,what
+Name 11 famous martyrs .,HUM:ind,unknown
+What video game hero do some of his fans call Chomper ?,HUM:ind,what
+What is the telephone number for the University of Kentucky ?,NUM:code,what
+Who followed Caesar ?,HUM:ind,who
+"Where is the actress , Marion Davies , buried ?",LOC:other,unknown
+Who was the 16th President of the United States ?,HUM:ind,who
+What is the highest mountain in the world ?,LOC:mount,what
+How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?,DESC:manner,unknown
+Where can I find a person 's address from a telephone number ?,LOC:other,unknown
+What two countries share the Khyber Pass ?,LOC:country,what
+What is the function of RAM ?,DESC:reason,what
+Why do heavier objects travel downhill faster ?,DESC:reason,unknown
+Why do people get calluses ?,DESC:reason,unknown
+Which two products use a tiger as their symbol ?,ENTY:product,unknown
+"What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ?",ENTY:termeq,what
+"When reading classified ads , what does EENTY : other stand for ?",ABBR:exp,when
+What does ribavirin consist of ?,ENTY:substance,what
+What Russian city boasts the Hermitage Museum ?,LOC:city,what
+What are the rites accompanying the circumcision of a newly born-child in Judaism called ?,ENTY:event,what
+What film did Lee Marvin win the 1965 best actor Oscar for ?,ENTY:cremat,what
+Why is poop sometimes different colors ?,DESC:reason,unknown
+What organization 's offices were broken into at Watergate in 1972 ?,HUM:gr,what
+What are some tips for building a fire in a fireplace ?,ENTY:techmeth,what
+Who does data collection in tourism ?,HUM:ind,who
+What function does a community 's water tower serve ?,DESC:reason,what
+"The italian artist , Maurizio Pellegrin , is how old ?",NUM:period,unknown
+What album put The Beatles on the cover of Time in 1967 ?,ENTY:cremat,what
+Name a tiger that is extinct .,ENTY:animal,unknown
+"What is the 401 , K , plan ?",DESC:def,what
+What 's the only color Johnny Cash wears on stage ?,ENTY:color,what
+What is color ?,DESC:def,what
+What caused the Lynmouth floods ?,DESC:reason,what
+Name a movie about the Sioux Indians starring Kevin Costner .,ENTY:cremat,unknown
+When did Mount St. Helen last have a significant eruption ?,NUM:date,when
+How do chickens have baby chicks ?,DESC:manner,unknown
+What 's the second-most-used vowel in English ?,ENTY:letter,what
+Where did the term `` 86ed '' come from ?,DESC:desc,unknown
+When was the first American encyclopedia published ?,NUM:date,when
+What is Mississippi 's state animal ?,ENTY:animal,what
+What are the three winter months in the southern hemisphere ?,NUM:date,what
+What are Maid-Rites ?,DESC:def,what
+"Where does Buzz Aldrin want to build a permanent , manned space station ?",LOC:other,unknown
+Where can I find a review of Nightmare on Elm Street in a film journal ?,LOC:other,unknown
+What is `` the bear of beers '' ?,ENTY:animal,what
+What city did the Flintstones live in ?,LOC:city,what
+What disease is transmitted by the Anopheles mosquito ?,ENTY:dismed,what
+What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?,HUM:ind,what
+What was the U.S. highway death toll in 1969 ?,NUM:count,what
+What was the top box office movie in April 1998 ?,ENTY:cremat,what
+What longtime game show host dropped dead while jogging in Central Park in 1984 ?,HUM:ind,what
+What plant is rum made from ?,ENTY:plant,what
+"What English word comes from the Old French covrefeu , meaning cover fire ?",ENTY:word,what
+What is the origin of the expression `` tout de suite '' ?,DESC:desc,what
+Where can I find pictorial directions on how to build a very simple treehouse ?,LOC:other,unknown
+What animals do you find in the stock market ?,ENTY:animal,what
+What is the difference between Neoclassical art and Romanticism art ?,DESC:desc,what
+Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?,LOC:other,unknown
+What is an example of an actual case of using the Fourteenth Amendment ?,DESC:desc,what
+Name the largest country in South America .,LOC:country,unknown
+How can I get some free technical information on Electric Vehicle ?,DESC:manner,unknown
+How do you say I love you in Spanish ?,ENTY:termeq,unknown
+What plant has the largest seed ?,ENTY:plant,what
+What is Nebraska 's most valuable resource ?,ENTY:other,what
+What day was Pearl Harbor attacked in 1942 ?,NUM:date,what
+How do I tie dye clothes ?,DESC:manner,unknown
+How many months does a normal human pregnancy last ?,NUM:count,unknown
+Who kept the most famous diary in the English language ?,HUM:ind,who
+What is the daily requirement of folic acid for an expectant mother ?,DESC:desc,what
+What is a fear of passing high objects ?,ENTY:dismed,what
+What J.R.R. Tolkien book features Bilbo Baggins as the central character ?,ENTY:cremat,what
+What cocktail do you concoct with whisky and sweet vermouth ?,ENTY:food,what
+Who discovered electricity ?,HUM:ind,who
+Which country is Australia 's largest export market ?,LOC:country,unknown
+What state in the U.S. has the most blacks ?,LOC:state,what
+To what does Microsoft 's Windows 3 owe its success ?,ENTY:other,what
+How do you ask a total stranger out on a date ?,DESC:manner,unknown
+Which Doonesbury character was likely to turn into a werewolf ?,HUM:ind,unknown
+When did Rococo painting and architecture flourish ?,NUM:date,what
+What excuse did the NATO people give for hitting the Chinese embassy ?,DESC:desc,what
+What are the living conditions in Cuba ?,DESC:desc,what
+What country did the Nile River originate in ?,LOC:country,what
+What was Mao 's second name ?,HUM:ind,what
+What is the difference between a generator and an alternator ?,DESC:desc,what
+What infectious disease is the world 's deadliest ?,ENTY:dismed,what
+"Who delivered his last newscast on March 6 , 1981 ?",HUM:ind,who
+What is November 's birthstone ?,ENTY:other,what
+What country 's capital is Tirana ?,LOC:country,what
+Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?,HUM:ind,who
+What kind of education do I need to become a flight attendant ?,ENTY:other,what
+How do you correctly say the word ` qigong ' ?,DESC:manner,unknown
+What 's nature 's purpose for tornadoes ?,DESC:reason,what
+What are two plants that clothes are made from ?,ENTY:plant,what
+What films featured the character Popeye Doyle ?,ENTY:cremat,what
+How many years ago did the ship Titanic sink ?,NUM:count,unknown
+Whose autobiography is titled Yes I Can ?,HUM:ind,unknown
+What is Answers.com 's address ?,LOC:other,what
+What relative of the racoon is sometimes known as the cat-bear ?,ENTY:animal,what
+What does the name `` Anthony '' mean ?,DESC:def,what
+In what area of the world was the Six Day War fought ?,LOC:other,what
+What is a Canada two-penny black ?,DESC:def,what
+What is the acreage of the Chappellet vineyard ?,NUM:volsize,what
+What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?,HUM:ind,what
+How long does it take for Spider-Man 's web to evaporate ?,NUM:period,unknown
+What is the deepest area of the Arctic Ocean ?,LOC:other,what
+How do you match a name to a social security number ?,DESC:manner,unknown
+What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?,ENTY:cremat,what
+Who is the voice of Miss Piggy ?,HUM:ind,who
+"What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?",LOC:other,what
+What sea did the Romans call mare nostrum ?,LOC:other,what
+What do flatfish eat ?,ENTY:food,what
+In what city is the headquarters of Sinn Fein ?,LOC:city,what
+What does the name `` Justin '' mean ?,DESC:def,what
+Name the disposable razor that `` costs about 19 cents . '',ENTY:product,unknown
+How do they find or choose witnesses to an execution ?,DESC:manner,unknown
+What is a fear of thunder ?,ENTY:dismed,what
+Where does your hair grow the fastest ?,ENTY:body,unknown
+What do bee hives do in cranberry bogs ?,DESC:desc,what
+What are some of the significant historical events of the 1990s ?,ENTY:event,what
+McCarren Airport is located in what city ?,LOC:city,what
+What state is John F. Kennedy buried in ?,LOC:state,what
+What is the state nickname of Mississippi ?,LOC:state,what
+What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,what
+What is a virtual IP address ?,DESC:def,what
+What is `` dew point '' ?,DESC:def,what
+What does a chairbound basophobic fear ?,ENTY:other,what
+"Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?",HUM:ind,who
+What are the distinct physical characterstics of the Arabian horse ?,DESC:desc,what
+How you can raise your IQ ?,DESC:manner,unknown
+How many miles is it to Ohio from North Carolina ?,NUM:count,unknown
+How many points make up a perfect fivepin bowling score ?,NUM:count,unknown
+What are the developmental stages of a swimmer ?,ENTY:other,what
+What Russian master spy lived in the U.S. under the name Emil Goldfus ?,HUM:ind,what
+How do I start a bank ?,DESC:manner,unknown
+What barroom judge called himself The Law West of the Pecos ?,HUM:ind,what
+What is measured in curies ?,DESC:def,what
+What was the name of that popular song the Creeps sang ?,ENTY:cremat,what
+What is the city in which Maurizio Pellegrin lives called ?,LOC:city,what
+Who was the founding member of the Pink Floyd band ?,HUM:ind,who
+What war did Florence Nightingale tend the troops in ?,ENTY:event,what
+What shrubs can be planted that will be safe from deer ?,ENTY:plant,what
+How many types of dogs ' tails are there - three,NUM:count,unknown
+What was Einstein 's IQ ?,NUM:other,what
+What college produced the most winning Super Bowl quarterbacks ?,HUM:gr,what
+What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?,ENTY:instru,what
+Where did Indian Pudding come from ?,DESC:desc,unknown
+What was the only country you were allowed to drive into Israel from in 1979 ?,LOC:country,what
+How many people died on D-Day ?,NUM:count,unknown
+How do you say 2 in Latin ?,ENTY:termeq,unknown
+What novel inspired the movie BladeRunner ?,ENTY:cremat,what
+What board game does a `` wood-pusher '' play poorly ?,ENTY:sport,what
+What European country is home to the beer-producing city of Budweis ?,LOC:country,what
+When did Muhammad live ?,NUM:date,when
+What country 's national passenger rail system is called Via ?,LOC:country,what
+What was cash-conscious Colonel Edwin L. Drake the first to drill ?,ENTY:other,what
+How many Vietnamese were there in the Soviet Union ?,NUM:count,unknown
+What mountains lie between the Arkansas and Missouri rivers ?,LOC:mount,what
+How many dots make up the symbol for `` because '' ?,NUM:count,unknown
+What diminutive American female gymnast stole the show at the 1984 Olympics ?,HUM:ind,what
+What army was founded by William Booth and his wife Catherine ?,HUM:gr,what
+What is ethology ?,DESC:def,what
+What historical event happened in Dogtown in 1899 ?,ENTY:event,what
+Where does chocolate come from ?,LOC:other,unknown
+What are the two languages of Malta ?,ENTY:lang,what
+What 's the closest G2 Spectrum Yellow Dwarf to Earth ?,LOC:other,what
+What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?,HUM:ind,what
+What county is Chicago in ?,LOC:other,what
+Who created private detective Philip Marlowe ?,HUM:ind,who
+"Which hair care product told us `` hate that gray , wash it away '' ?",ENTY:product,unknown
+What golfer has been called Ohio Fats and Blobbo ?,HUM:ind,what
+When was Ozzy Osbourne born ?,NUM:date,when
+What percentage of Americans own their homes ?,NUM:perc,what
+"What is the meaning of W.B. Yeat 's poem , `` The Three Hermits ? ''",DESC:def,what
+What country did King Gustav V reign over from 197 to 195 ?,LOC:country,what
+What crop failure caused the Irish Famine ?,ENTY:food,what
+How can I transport files from one computer to another ?,DESC:manner,unknown

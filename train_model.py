@@ -36,7 +36,7 @@ def train(filename,split=0):
 
     model = QuestionClassify(label_dict)
     if(split==1):
-        Xtrain, Xtest, ytrain, ytest = train_test_split(data["Question"].values, data["Question_Type"].values)
+        Xtrain, Xtest, ytrain, ytest = train_test_split(data["Question"].values, data["Question_Type"].values,test_size=0.2)
         model.train(Xtrain,ytrain,label_dict)
         print "Training Accuracy",model.test(Xtrain,ytrain,label_dict)
         print "Test Accuracy", model.test(Xtest, ytest,label_dict)
