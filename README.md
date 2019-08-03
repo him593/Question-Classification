@@ -4,7 +4,7 @@ Classifies a question text in five categories: when, what, who, affirmation and 
 
 ## INSTRUCTIONS TO RUN ##
 - Run pip install -r requirements.txt. Might haeve to download nltk data if you dont have it already. 
-- Run classify_question.py as python train_model.py
+- Run python train_model.py
 - At the first run it will train on the given data, report training and testing accuracies and runs the model on 200 sampled question from http://cogcomp.org/Data/QA/QC/train_1000.label and saves the result in the file 'test_file.csv'
 - To run the model on keyboard input, run the classify_question.py file.You will get a prompt to enter text and the output will follow. Ctrl+C to exit that.
 - The models will only be trained once. If the train function is run again it will just reuse the saved models in the model directory.
